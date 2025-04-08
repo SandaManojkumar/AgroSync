@@ -81,5 +81,5 @@ npm install
 npm start
 ```
 ---
-### 🧡 Made with care, grown with love — AgroSync
+# 🧡 Made with care, grown with love — AgroSync
 
