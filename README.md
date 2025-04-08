@@ -81,4 +81,7 @@ npm install
 npm start
 ```
 ---
+## 📞 Contact
+**Linked in**: 👉 https://www.linkedin.com/in/manojkumar-sanda-767025213/
+---
 # 🧡 Made with care, grown with love — AgroSync
