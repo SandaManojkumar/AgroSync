@@ -82,4 +82,3 @@ npm start
 ```
 ---
 # 🧡 Made with care, grown with love — AgroSync
-
